@@ -38,9 +38,3 @@ Untuk Windows:
 Kemudian jalankan game melalu container yang sudah dibuat dengan menjalankan perintah seperti di bawah ini.
 
     python3 -m main.py
-
-## Video Demo Kontainer
-
-[![Video Demo Kontainer](https://img.youtube.com/vi/uqIMaMKzJaw/0.jpg)](https://www.youtube.com/watch?v=uqIMaMKzJaw)
-
-Klik gambar di atas untuk melihat video.
