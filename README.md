@@ -1,6 +1,6 @@
 # Docker 2 - Hands On 💻
 
-## Nama dan NIM A 👯
+## Nama dan NIM 
 
 | Alga Fiky                 120140121 |
 
