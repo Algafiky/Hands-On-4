@@ -1,9 +1,17 @@
-a. Alga Fiky 120140121
+# Docker 2 - Hands On 💻
 
-b. Alien.py
+## Nama dan NIM A 👯
 
-c. cara menjalankan kontainer
-Buka terminal, lalu masuk ke direktori `~/Downloads` lalu buat image dengan menggunakan      perintah make-build seperti di bawah ini.
+| Alga Fiky                 120140121 |
+
+## Judul Project 📃
+Aliens
+
+
+
+## Cara Menjalankan Container
+
+Buka terminal, lalu masuk ke direktori `~/Downloads` lalu buat image dengan menggunakan perintah make-build seperti di bawah ini.
 
     make build
 
@@ -30,3 +38,9 @@ Untuk Windows:
 Kemudian jalankan game melalu container yang sudah dibuat dengan menjalankan perintah seperti di bawah ini.
 
     python3 -m main.py
+
+## Video Demo Kontainer
+
+[![Video Demo Kontainer](https://img.youtube.com/vi/uqIMaMKzJaw/0.jpg)](https://www.youtube.com/watch?v=uqIMaMKzJaw)
+
+Klik gambar di atas untuk melihat video.
